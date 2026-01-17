@@ -122,64 +122,6 @@
           null
         ]
       },
-      "/Users/ericlabra/Documents/GitProjects/EasyBrokerExample/config/initializers/cors.rb": {
-        "lines": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
-      "/Users/ericlabra/Documents/GitProjects/EasyBrokerExample/config/initializers/filter_parameter_logging.rb": {
-        "lines": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          1,
-          null,
-          null
-        ]
-      },
-      "/Users/ericlabra/Documents/GitProjects/EasyBrokerExample/config/initializers/inflections.rb": {
-        "lines": [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
-      },
       "/Users/ericlabra/Documents/GitProjects/EasyBrokerExample/config/routes.rb": {
         "lines": [
           null,
@@ -265,6 +207,6 @@
         ]
       }
     },
-    "timestamp": 1768693840
+    "timestamp": 1768694237
   }
 }

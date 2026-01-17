@@ -15,8 +15,8 @@ gem 'sqlite3', '~> 1.4'
 gem 'puma', '>= 5.0'
 
 gem 'colored'
-gem 'service_actor'
 gem 'config'
+gem 'service_actor'
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 # gem "jbuilder"
 
