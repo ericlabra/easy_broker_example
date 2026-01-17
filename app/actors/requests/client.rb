@@ -8,7 +8,7 @@ module Requests
   # Client Actor to make requests to the EasyBroker API
   class Client < Actor
     URI_BASE = 'https://api.stagingeb.com/v1'
-    API_KEY = ENV.fetch('EASYBROKER_API_KEY', 'l7u502p8v46ba3ppgvj5y2aad50lb9') # should be a secret from ENV
+    API_KEY = Settings.easybroker.api_key
 
     input :endpoint_path, type: String, required: false, default: '/properties'
     output :json_response, type: Hash
